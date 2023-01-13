@@ -1,0 +1,3 @@
+[submodule "ColorTools"]
+	path = ColorTools
+	url = git@github.com:otwieracz/ColorTools.git
